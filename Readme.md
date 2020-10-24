@@ -6,7 +6,7 @@ Drug Consumption analysis is used to understand how much alcoholics are in a gro
 ### IDE:- JUPYTER NOTEBOOK
 
 ## To Draw Decision Tree:
-Language:- R
-IDE:- RStudio
+### Language:- R
+### IDE:- RStudio
 
 ## import required modules
